@@ -17,8 +17,4 @@ This project involves the development of the **National Philatelic Deposit Accou
 - **Authentication**: JSON Web Tokens (JWT)
 - **Version Control**: Git, GitHub
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/npda-creation-login-page.git
